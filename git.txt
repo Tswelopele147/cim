@@ -1,0 +1,11 @@
+git config --global user.name "Tswelopele"
+git config --global user.email "tswaiprogress@gmail.com"
+C:\Users\Tswelopele\Documents\sabc
+git add *
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/Tswelopele147/cim.git
+git clone https://github.com/Tswelopele147/cim.git
+
+branch
+git checkout -b develop
