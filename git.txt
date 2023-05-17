@@ -9,3 +9,4 @@ git clone https://github.com/Tswelopele147/cim.git
 
 branch
 git checkout -b develop
+git branch
